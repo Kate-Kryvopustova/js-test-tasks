@@ -1,0 +1,32 @@
+h2 {
+    text-align: center;
+}
+
+.buttonForCreateElement{
+    float: right;
+}
+
+.unionButtons{
+    text-align: center;
+}
+
+.generalFolder{
+    margin: 5px;
+}
+
+.counter{
+    margin: 5px;
+}
+
+.containerForInputs{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.outputCount {
+    width: 30%;
+    margin: 5px; 
+}
+
